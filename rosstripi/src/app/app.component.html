@@ -1,16 +1,2 @@
-<body>
-  <div style="text-align:center">
-    <h1>
-      Welcome to {{title}}!
-    </h1>
-  </div>
+<app-nav></app-nav>
 
-  <div *ngIf="underConstruction; else live_content">
-    <span>
-    This page is currently under construction.
-  </span>
-  </div>
-  <ng-template #live_content>
-    The page is live.
-  </ng-template>
-</body>
