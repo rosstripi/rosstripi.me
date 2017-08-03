@@ -4,3 +4,5 @@ This is the source for my personal site that, once it is in a working state, wil
 This page is an Angular 4 application hosted using Firebase.
 
 There is some rudimentary Firebase database interactions taking place in the Contact component. Planning to flesh this out.
+
+TODO: replace contact page with one that doesn't require firebase shenanigans. 
