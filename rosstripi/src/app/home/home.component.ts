@@ -9,7 +9,7 @@ export class HomeComponent implements OnInit {
 
   constructor() { }
   title = 'rosstripi.me';
-  underConstruction: boolean = true;
+  underConstruction: boolean = false;
   ngOnInit() {
 
   }

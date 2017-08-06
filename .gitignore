@@ -1,2 +1,4 @@
 
 rosstripi/src/environments/environment\.ts
+rosstripi/node_modules/
+rosstripi/functions/node_modules/
