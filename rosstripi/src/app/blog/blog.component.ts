@@ -11,7 +11,7 @@ import { Feed } from '../model/feed';
 export class BlogComponent implements OnInit {
 
   // @Input() blogEntires: int;
-  private feedUrl: string = 'https%3A%2F%2Fwww.becompany.ch%2Fen%2Fblog%2Ffeed.xml';
+  private feedUrl: string = 'http://rosstripi.tumblr.com/rss'; 
   private feeds: any;
 
   constructor(
